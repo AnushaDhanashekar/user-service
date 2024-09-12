@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.codedecode.userinfo.UserinfoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 29.974 s - in com.codedecode.userinfo.UserinfoApplicationTests
